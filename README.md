@@ -8,4 +8,4 @@ Case: Marketing campaigns + Web sessions
 # DBT datamarts examples
 
 - [Users churn](https://github.com/daleksandroff/analytics-projects/blob/1d6c2bc2f58726588f1fb4222c6d1470d62d30dc/dbt%20datamarts/looker_users_churn_monthly.sql)
-- [Finance model with macros](https://github.com/daleksandroff/analytics-projects/blob/1d6c2bc2f58726588f1fb4222c6d1470d62d30dc/dbt%20datamarts/model_finance_macros.sql)
+- [Macros for Finance model](https://github.com/daleksandroff/analytics-projects/blob/1d6c2bc2f58726588f1fb4222c6d1470d62d30dc/dbt%20datamarts/model_finance_macros.sql)
