@@ -5,7 +5,7 @@
   - [Jupyter notebook (mrkt. campaigns analysis)](https://github.com/daleksandroff/analytics-projects/blob/b3a3f73605cb547607dabf2ff10a0fb9e580ccc4/Marketing%20campaigns%20case%20study/Mrkt_campaigns_analysis.ipynb)
   - [Jupyter notebook (web sessions analysis)](https://github.com/daleksandroff/analytics-projects/blob/b3a3f73605cb547607dabf2ff10a0fb9e580ccc4/Marketing%20campaigns%20case%20study/Sessions_analysis.ipynb)
   
-- [Geo-date processing: Heatmaps](https://github.com/daleksandroff/analytics-projects/blob/155858d65f9968aa10a4004e2678a4ad98bfb7e1/Geo%20heatmaps/taxi_airport_transfers_pricing.ipynb)
+- [Geo-data processing: Heatmaps](https://github.com/daleksandroff/analytics-projects/blob/155858d65f9968aa10a4004e2678a4ad98bfb7e1/Geo%20heatmaps/taxi_airport_transfers_pricing.ipynb)
 
 # DBT datamarts examples
 
