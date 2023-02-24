@@ -12,4 +12,4 @@ Case: Marketing campaigns + Web sessions
 
 
 # Python scripts
-- [London Drivers expiry date check](https://github.com/daleksandroff/analytics-projects/blob/abd20377c034de95242268198964fcb2db19d479/Python%20scripts/drivers_check.py)
+- [London Drivers license expiry date parser](https://github.com/daleksandroff/analytics-projects/blob/abd20377c034de95242268198964fcb2db19d479/Python%20scripts/drivers_check.py)
