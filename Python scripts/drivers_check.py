@@ -1,4 +1,4 @@
-## This script helps to automatically parse data from TfL (Transport of London).
+## This script helps to automatically parse data from TfL (Transport for London).
 ## Inputs: Driver's licence number
 ## Outputs: License expiry date
 
