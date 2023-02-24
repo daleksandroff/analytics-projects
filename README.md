@@ -12,5 +12,5 @@ Case: Marketing campaigns + Web sessions
 
 
 # Python scripts
-- [London Drivers license expiry date parser](https://github.com/daleksandroff/analytics-projects/blob/abd20377c034de95242268198964fcb2db19d479/Python%20scripts/drivers_check.py)
+- [Parser: London Drivers license expiry date checking](https://github.com/daleksandroff/analytics-projects/blob/abd20377c034de95242268198964fcb2db19d479/Python%20scripts/drivers_check.py)
 - [Geo processing: car journeys intersected London Congestion Charge Zone (CCZ)](https://github.com/daleksandroff/analytics-projects/blob/4828123b2c64d9b30a6f61eba7286ff60942f745/Python%20scripts/london_car_journeys_intersect_ccz.py)
