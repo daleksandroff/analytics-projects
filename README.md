@@ -18,3 +18,4 @@
 # Python scripts
 - [Parser: London Drivers license expiry date checking](https://github.com/daleksandroff/analytics-projects/blob/abd20377c034de95242268198964fcb2db19d479/Python%20scripts/drivers_check.py)
 - [Geo-data processing: car journeys intersected London Congestion Charge Zone (CCZ)](https://github.com/daleksandroff/analytics-projects/blob/4828123b2c64d9b30a6f61eba7286ff60942f745/Python%20scripts/london_car_journeys_intersect_ccz.py)
+- [ETL: data reconciliation (Redshift vs MongoDB)](https://github.com/daleksandroff/analytics-projects/tree/main/Python%20scripts/discrepancy_check)
