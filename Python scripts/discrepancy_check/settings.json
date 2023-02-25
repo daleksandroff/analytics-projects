@@ -1,0 +1,16 @@
+{"orders": {
+    "mongo_collection": "orders",
+    "redshift_table": "analytics.f_requests",
+    "redshift_ts_column": "requested_ts_utc",
+    "columns_map_mongo_to_redshift": {"price": "price_loc"
+                                     ,"credit": "discount_loc"}
+    },
+ 
+ "users": {
+    "mongo_collection": "users",
+    "redshift_table": "analytics.dim_users",
+    "redshift_ts_column": "registered_ts_utc",
+    "columns_map_mongo_to_redshift": {"rating": "rating"}
+ }
+}
+    
